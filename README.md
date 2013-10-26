@@ -1,4 +1,5 @@
 travis-test-cpp-objective-c
 ===========================
 
-travis-ci.org try to mix 3 build: clang (mac), gcc (linux), clang (linux) 
+**Not** working. See this [issue](https://github.com/travis-ci/travis-ci/issues/216).
+Workaround: create two different branches
