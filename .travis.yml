@@ -1,6 +1,5 @@
 language:
     - cpp
-    - objective-c
     
 script:
     - echo ${CXX}
