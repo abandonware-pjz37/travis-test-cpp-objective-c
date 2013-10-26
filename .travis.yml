@@ -2,9 +2,5 @@ language:
     - cpp
     - objective-c
     
-compiler:
-    - gcc
-    - clang
-
 script:
     - echo ${CXX}
